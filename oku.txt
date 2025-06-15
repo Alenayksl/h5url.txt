@@ -1,0 +1,1 @@
+hafta 5'te yapılan bu çalışmada verilen iki tarih aralığında bazı gazeteler ve kategoriler için tüm yıl/ay/gün kombinasyonlarını oluşturup, onları URL formatında yazdırıyor.
